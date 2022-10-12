@@ -1,4 +1,4 @@
-## 长沙文宸智慧网络技术有限公司
+## 长沙宁宁网络技术有限公司
 
 ###### 天天猜剧
 
@@ -9,6 +9,18 @@
 > 
 
 [下载链接](https://appgallery.huawei.com/#/app/C106889655)
+
+
+
+###### Twichirp
+
+![logo](./logo1.png)    
+![展示图](v1.png)
+
+
+> 
+
+[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 ----
 
