@@ -12,7 +12,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### Picsart美易醒图
+###### 泼辣修图
 
 ![logo](./logo2.png)    
 ![展示图](v2.png)
