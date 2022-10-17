@@ -1,7 +1,7 @@
 ## 长沙宁宁网络技术有限公司
 
 
-###### Twitters
+###### Twittirp
 
 ![logo](./logo1.png)    
 ![展示图](v1.png)
