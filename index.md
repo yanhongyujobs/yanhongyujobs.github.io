@@ -44,7 +44,7 @@
 
 
 
-###### 91视频剪辑
+###### 视频剪辑专家
 
 ![logo](./logo4.png)    
 ![展示图](v4.png)
@@ -83,7 +83,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 233工具
+###### 手机管家工具
 
 ![logo](./logo7.png)    
 ![展示图](v7.png)
