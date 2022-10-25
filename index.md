@@ -70,7 +70,7 @@
 
 
 
-###### 韩剧小圈
+###### 韩剧TV小圈
 
 ![logo](./logo6.png)    
 
@@ -83,7 +83,7 @@
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
-###### 手机管家工具
+###### 悟饭工具厅
 
 ![logo](./logo7.png)    
 ![展示图](v7.png)
