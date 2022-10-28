@@ -139,6 +139,16 @@
 
 
 
+###### WiFi万能连接 
+
+![logo](./logo11.png) 
+WiFi万能连接是一款功能丰富的WiFi连接助手软件，获取可用的WiFi列表，并连接WiFi。网络安全、防蹭网检测、路由器检测等网络功能，帮你轻了解WiFi网络情况。
+![展示图](v11.png)
+
+
+> 
+
+[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
 
 
 
