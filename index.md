@@ -142,7 +142,7 @@
 ###### WiFi万能连接 
 
 ![logo](./logo11.png) 
-WiFi万能连接是一款功能丰富的WiFi连接助手软件，获取可用的WiFi列表，并连接WiFi。网络安全、防蹭网检测、路由器检测等网络功能，帮你轻了解WiFi网络情况。
+
 ![展示图](v11.png)
 
 
@@ -163,6 +163,27 @@ WiFi万能连接是一款功能丰富的WiFi连接助手软件，获取可用的
 > 
 
 [下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
+
+
+
+###### 笔趣看书
+
+![logo](./logo13.png) 
+这是一款实用的小说阅读工具。
+操作简单，使用方便。
+支持导入书籍，多种翻页方式、可调的字体大小、阅读模式等；
+带给您阅读纸质书籍一般的体验。
+快来看看吧！
+
+![展示图](v13.png)
+
+
+> 
+
+[下载链接](https://pan.baidu.com/s/1FGW3MRJK0wHuv8pgQP0h1Q?pwd=kry6)
+
+
+
 
 
 
